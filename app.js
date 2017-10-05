@@ -1,10 +1,5 @@
 function isValidCard() {
 
-
-
-    var total = 0;
-
-
     do {
         var cardNumber = prompt("Ingrese su número de tarjeta de crédito");
         var array = cardNumber.split();
@@ -31,6 +26,7 @@ function isValidCard() {
     while (condition === false);
 
 }
+
 /*Segun el video de Michelle:
 dar vuelta el numero, multiplicar cada par por 2, si el doble del
  resultado es mayor o igual a 10 se suman los digitos del resultado (ej 2*5 = 10, 1+0 = 1)
