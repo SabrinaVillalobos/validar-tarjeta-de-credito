@@ -1,0 +1,19 @@
+{
+  "name": "validar-tarjeta-de-credito",
+  "version": "1.0.0",
+  "description": "validador de tarjeta de credito segun algoritmo de Luhn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabrinaVillalobos/validar-tarjeta-de-credito"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://sabrinavillalobos.github.io/validar-tarjeta-de-credito/",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
