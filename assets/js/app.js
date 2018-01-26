@@ -30,6 +30,5 @@ function isValidCard() { // función para validar la tarjeta
   }
 }
 
-isValidCard();
 /* visa test = 4916364300489742*/
 
